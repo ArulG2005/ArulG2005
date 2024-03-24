@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various projects.<br>🌱 I’m currently pursuing a Bachelor of Technology in Information Technology.<br>👯 I’m looking to collaborate on projects.<br>🤔 I’m looking for help with contributing my ideas.<br>📫 You can reach me on  LinkedIn:linkedin.com/in/arul2005<br>😄 Pronouns: He/his<br>⚡ Fun fact: I'm a bit shy by nature.
+🔭 I’m currently working on various projects.<br>🌱 I’m currently pursuing a Bachelor of Technology in Information Technology.<br>👯 I’m looking to collaborate on projects.<br>🤔 I’m looking for help with contributing my ideas.<br>"📫 You can reach me on  LinkedIn:linkedin.com/in/arul2005"<br>😄 Pronouns: He/his<br>⚡ Fun fact: I'm a bit shy by nature.
 
 
 ## 🌐 Socials:
