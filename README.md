@@ -1,10 +1,10 @@
 <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><h2> I am Arul! </h2><img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px">
-<br/>
-  
+
 🔭 I’m currently working on various projects.<br>🌱 I’m currently pursuing a Bachelor of Technology in Information Technology.<br>👯 I’m looking to collaborate on projects.<br>🤔 I’m looking for help with contributing my ideas.<br>😄 Pronouns: He/his<br>⚡ Fun fact: I'm a bit shy by nature.
+  
 ## Portfolio
- <a href="https://arul-portfolio.web.app/">
-</a>
+[View My Portfolio ](https://arul-portfolio.web.app)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arul2005) 
