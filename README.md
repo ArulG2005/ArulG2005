@@ -1,6 +1,8 @@
-
-  <img src="https://github.com/ArulG2005/ArulG2005/blob/output/github-snake-dark.svg" alt="snake gif" width="100%">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ##
 
 <p align="center">
