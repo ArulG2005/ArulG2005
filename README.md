@@ -1,13 +1,12 @@
-<table width="100%">
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><br>
-    </td>
-    <td align="center" width="70%">
-      <img src="https://github.com/ArulG2005/ArulG2005/blob/output/github-snake-dark.svg" alt="snake gif" width="1000px">
-    </td>
-  </tr>
-</table>
+
+  <img src="https://github.com/ArulG2005/ArulG2005/blob/output/github-snake-dark.svg" alt="snake gif" width="100%">
+
+##
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><br>
+</p>
+
 
 
 <h2>I am Arul! 
