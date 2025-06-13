@@ -6,7 +6,7 @@
 
 ##
 
-<p align="center">
+<p >
   <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><br>
 </p>
 
