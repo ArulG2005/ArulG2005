@@ -18,7 +18,7 @@
 🔭 I’m currently working on various projects.<br>🌱 I’m currently pursuing a Bachelor of Technology in Information Technology.<br>👯 I’m looking to collaborate on projects.<br>🤔 I’m looking for help with contributing my ideas.<br>😄 Pronouns: He/his<br>⚡ Fun fact: I'm a bit shy by nature.
 
 ## Portfolio
-[View My Portfolio ](https://arul.codes)
+[View My Portfolio ](https://arulg.tech)
 
 
 ## 🌐 Socials:
