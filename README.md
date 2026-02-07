@@ -89,14 +89,17 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ArulG2005&show_icons=true&theme=highcontrast&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com?user=ArulG2005&theme=highcontrast&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArulG2005&layout=compact&theme=highcontrast&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArulG2005&show_icons=true&theme=highcontrast)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ArulG2005&theme=highcontrast)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArulG2005&layout=compact&theme=highcontrast)
 
 
 ---
 
-## 🚀 Final Touch
+## 👨‍💻 Software Development Engineer
 💡 **Software Development Engineer (SDE)** focused on building  
 **scalable backend systems, clean API designs, and high-performance applications**.  
 Experienced in **system design, distributed systems, and engineering products built to scale**.
