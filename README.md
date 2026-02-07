@@ -90,11 +90,20 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArulG2005&show_icons=true&theme=highcontrast)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArulG2005&theme=github_dark" />
+  <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ArulG2005&theme=highcontrast)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArulG2005&theme=github_dark" />
+  <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArulG2005&layout=compact&theme=highcontrast)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArulG2005&theme=github_dark" />
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArulG2005&theme=github_dark&utcOffset=5.5" />
+</p>
+
+
 
 
 ---
