@@ -1,118 +1,316 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArulG2005/ArulG2005/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArulG2005/ArulG2005/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArulG2005/ArulG2005e/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArulG2005/ArulG2005/output/github-contribution-grid-snake.svg">
 </picture>
 
-##
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=%F0%9F%91%8B+Welcome+to+my+corner+of+GitHub!;%F0%9F%94%AD+Currently+building+awesome+projects;%F0%9F%8C%B1+B.Tech+in+Information+Technology;%F0%9F%91%AF+Always+open+to+collaborate;%F0%9F%A4%AB+Super+shy+but+code+speaks+louder!;%F0%9F%9A%80+Let's+create+something+amazing!" alt="Typing SVG" />
+  </a>
 </p>
-
-
-
-<h2>I am Arul! 
-        <img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px">
-      </h2>
-🔭 I’m currently working on various projects.<br>🌱 I’m currently pursuing a Bachelor of Technology in Information Technology.<br>👯 I’m looking to collaborate on projects.<br>🤔 I’m looking for help with contributing my ideas.<br>😄 Pronouns: He/his<br>⚡ Fun fact: I'm a bit shy by nature.
-
-## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arulg.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arul2005)
-[![Google Play](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7152012900864371035&hl=en_IN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.aruleyy)
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-## ⚙️ Frameworks & Libraries
-![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 🧠 Scalable Backend, APIs & Cloud
-![API Design](https://img.shields.io/badge/API_Design-4CAF50?style=for-the-badge)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-2C2C2C?style=for-the-badge)
-![Scalability](https://img.shields.io/badge/Scalability-4CAF50?style=for-the-badge)
-
----
-
-## 🎨 Frontend & UI Tools
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 🧰 IDEs & Developer Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArulG2005&theme=github_dark" />
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArulG2005&theme=github_dark" />
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArulG2005&theme=github_dark" />
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArulG2005&theme=github_dark&utcOffset=5.5" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180px">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180px">
 </p>
 
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+  <b>A few things about me:</b>
+  &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+  
+</div>
 
+<br/>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>🔭</td>
+      <td>Currently working on <b>various exciting projects</b></td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td>Pursuing <b>B.Tech in Information Technology</b></td>
+    </tr>
+    <tr>
+      <td>👯</td>
+      <td>Looking to <b>collaborate on innovative projects</b></td>
+    </tr>
+    <tr>
+      <td>💡</td>
+      <td>Love <b>contributing ideas & learning new things</b></td>
+    </tr>
+    <tr>
+      <td>😄</td>
+      <td>Pronouns: <b>He/His</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://media.giphy.com/media/3oEhmNLxk9uiTbL9Be/giphy.gif" width="25"></td>
+      <td><b><i>EXTREMELY EXTREMELY shy</i></b> 🙈🙈🙈 by nature... <br/>but my code does ALL the talking! 💻✨</td>
+    </tr>
+  </table>
+</div>
 
----
+<br/>
 
-## 👨‍💻 Software Development Engineer
-💡 **Software Development Engineer (SDE)** focused on building  
-**scalable backend systems, clean API designs, and high-performance applications**.  
-Experienced in **system design, distributed systems, and engineering products built to scale**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=450&lines=%F0%9F%99%88+Too+shy+to+talk...;%F0%9F%92%BB+But+watch+me+CODE!;%E2%9C%A8+Actions+speak+louder+than+words!" alt="Shy Typing"/>
+</p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70px">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70px">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70px">
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=ArulG2005&icon=1&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+
+<p align="center">
+  <a href="https://arulg.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/arul2005">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=7152012900864371035&hl=en_IN">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+  <a href="https://www.instagram.com/mr.aruleyy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/IS7MPrPDvbUwTaXPqK/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="70">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Tech Stack & Arsenal
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
+</p>
+
+<br/>
+
+<details open>
+<summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> <b>Programming Languages</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,dart,kotlin&perline=5&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20"> <b>Frameworks & Libraries</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,spring,androidstudio&perline=5&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="20"> <b>Backend, APIs & Cloud</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,redis,rabbitmq,aws,docker&perline=5&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/API_Design-4CAF50?style=flat-square" alt="API Design"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square" alt="RESTful APIs"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/System_Design-2C2C2C?style=flat-square" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Scalability-4CAF50?style=flat-square" alt="Scalability"/>
+</p>
+</details>
+
+<details open>
+<summary><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="20"> <b>Frontend & UI</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma&perline=5&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> <b>Databases</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&perline=4&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> <b>Tools & IDEs</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,eclipse,git,github&perline=6&theme=dark" />
+  </a>
+</p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="35">
+  Achievements
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-eight.vercel.app/?username=ArulG2005&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&v=1" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" width="60">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  GitHub Stats
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=ArulG2005&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50">
+</p>
+
+<p align="center">
+  <img width="49%"
+       src="https://gh-readme-stats.vercel.app/api?username=ArulG2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="41%"
+       src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ArulG2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img width="60%"
+       src="https://streak-stats.demolab.com?user=ArulG2005&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArulG2005&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area_color=e05397&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30">
+  What I Do
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30">
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
+<div align="center">
+
+```javascript
+const arul = {
+    title: "Software Development Engineer",
+    focus: ["Scalable Backend Systems", "Clean APIs", "High-Performance Apps"],
+    expertise: ["System Design", "Distributed Systems", "Products Built to Scale"],
+    currentStatus: "Building awesome things! 🚀",
+    motto: "Let the code speak for itself ✨"
+};
+```
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArulG2005&style=for-the-badge&color=e05397" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="200">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=600&color=E05397&center=true&vCenter=true&random=false&width=550&lines=%E2%9C%A8+Thanks+for+stopping+by!;%F0%9F%92%BB+My+GitHub+speaks+volumes!;%F0%9F%9A%80+Let's+build+something+EPIC!;%F0%9F%92%96+Drop+a+star+if+you+liked+it!" alt="Footer Typing"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love</b> connecting with fellow developers!</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=%22The+one+who+made+even+ME+feel+shy...+is+a+GIRL%22+%F0%9F%92%95;%E2%9D%A4%EF%B8%8F+Love+finds+its+way...+%E2%9D%A4%EF%B8%8F" alt="Love Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/l4FGni1RBAR2OWsGk/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="80">
+</p>
