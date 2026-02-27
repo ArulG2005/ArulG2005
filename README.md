@@ -4,11 +4,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArulG2005/ArulG2005/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=22&descColor=FFFFFF&shadow=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=55&fontColor=000000&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=22&descColor=000000&shadow=true"/>
-  <img width="100%" alt="Arul header" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=22&descColor=FFFFFF&shadow=true"/>
-</picture>
+<div align="center">
+  <a href="https://github.com/ArulG2005">
+    <img src="./header.svg" width="100%" alt="Hey, I'm Arul! — Software Development Engineer | Building Scalable Systems"/>
+  </a>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
