@@ -4,11 +4,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArulG2005/ArulG2005/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=55&fontColor=FF00FF&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=20&descColor=FF00FF&shadow=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=20&descColor=00FFFF&shadow=true"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=%F0%9F%91%8B+Welcome+to+my+corner+of+GitHub!;%F0%9F%94%AD+Currently+building+awesome+projects;%F0%9F%8C%B1+B.Tech+in+Information+Technology;%F0%9F%91%AF+Always+open+to+collaborate;%F0%9F%A4%AB+Super+shy+but+code+speaks+louder!;%F0%9F%9A%80+Let's+create+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=%F0%9F%91%8B+Welcome+to+my+corner+of+GitHub!;%F0%9F%94%AD+Currently+building+awesome+projects;%F0%9F%8C%B1+B.Tech+in+Information+Technology;%F0%9F%91%AF+Always+open+to+collaborate;%F0%9F%A4%AB+Super+shy+but+code+speaks+louder!;%F0%9F%9A%80+Let's+create+something+amazing!" alt="Typing SVG" />
   </a>
 </p>
 
