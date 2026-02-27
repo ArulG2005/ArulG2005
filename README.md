@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArulG2005/ArulG2005/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=20&descColor=00FFFF&shadow=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey,%20I'm%20Arul!&fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=22&descColor=FF0000&shadow=true"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
