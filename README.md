@@ -12,11 +12,17 @@
 
 
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=%F0%9F%91%8B+Welcome+to+my+corner+of+GitHub!;%F0%9F%94%AD+Currently+building+awesome+projects;%F0%9F%8C%B1+B.Tech+in+Information+Technology;%F0%9F%91%AF+Always+open+to+collaborate;%F0%9F%A4%AB+Super+shy+but+code+speaks+louder!;%F0%9F%9A%80+Let's+create+something+amazing!" alt="Typing SVG" /> </a> </p>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+<br/>
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180px">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180px">
 </p>
+
 
 <div align="center">
   
