@@ -4,11 +4,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArulG2005/ArulG2005/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <a href="https://github.com/ArulG2005">
-    <img src="./header.svg" width="100%" alt="Hey, I'm Arul! — Software Development Engineer | Building Scalable Systems"/>
-  </a>
-</div>
 
 
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=%F0%9F%91%8B+Welcome+to+my+corner+of+GitHub!;%F0%9F%94%AD+Currently+building+awesome+projects;%F0%9F%8C%B1+B.Tech+in+Information+Technology;%F0%9F%91%AF+Always+open+to+collaborate;%F0%9F%A4%AB+Super+shy+but+code+speaks+louder!;%F0%9F%9A%80+Let's+create+something+amazing!" alt="Typing SVG" /> </a> </p>
@@ -267,56 +262,3 @@ const arul = {
 
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArulG2005&style=for-the-badge&color=e05397" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=600&color=E05397&center=true&vCenter=true&random=false&width=550&lines=%E2%9C%A8+Thanks+for+stopping+by!;%F0%9F%92%BB+My+GitHub+speaks+volumes!;%F0%9F%9A%80+Let's+build+something+EPIC!;%F0%9F%92%96+Drop+a+star+if+you+liked+it!" alt="Footer Typing"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love</b> connecting with fellow developers!</em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=%22The+one+who+made+even+ME+feel+shy...+is+a+GIRL%22+%F0%9F%92%95;%E2%9D%A4%EF%B8%8F+Love+finds+its+way...+%E2%9D%A4%EF%B8%8F" alt="Love Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/l4FGni1RBAR2OWsGk/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="80">
-</p>
